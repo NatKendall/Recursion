@@ -1,6 +1,6 @@
 # Recursion
 
-This is a fairly recent program I had to create for my data structures course. During this section we focues on using recursion with and without a helper.
+During this section we focues on using recursion with and without a helper.
 
 What the program does:
 - For this program the first method finds the number of upper case letter in a string returning the count.
